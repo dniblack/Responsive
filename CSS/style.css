@@ -1,0 +1,63 @@
+.navbar {
+    background-color: #E6DEB9;
+    text-transform: uppercase;
+    color: #3B2E1E;
+}
+
+.nav-item {
+    color: #3B2E1E;
+    forced-color-adjust: #3B2E1E;
+}
+
+.nav-item:hover {
+    color: #576634;
+}
+
+.nav-item {
+    opacity: 75%;
+}
+
+.nav-item.active {
+    opacity: 100%;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #E6DEB9;
+    font-family: Chivo, Arial, Helvetica, sans-serif;
+}
+
+h5, h2 {
+    font-family: Montserrat, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.card-img-top {
+    height: 20vw;
+    width: auto;
+    object-fit: cover;
+}
+
+.card {
+    background-color: #576634;
+    color: #E6DEB9;
+}
+
+.container-fluid {
+    color: #3B2E1E;
+}
+
+.btn {
+    background-color: #3B2E1E;
+    color: #E6DEB9;
+    border-radius: 25px;
+}
+
+footer, footer a {
+    background-color: #E6DEB9;
+    color: #3B2E1E;
+    font-family: Chivo, Arial, Helvetica, sans-serif;
+}
