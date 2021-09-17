@@ -1,3 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 .navbar {
     background-color: #E6DEB9;
     text-transform: uppercase;
@@ -36,9 +41,13 @@ h5, h2 {
 }
 
 .card-img-top {
-    height: 20vw;
-    width: auto;
-    object-fit: cover;
+    height: auto;
+    width: 100%;
+    object-fit: fill;
+}
+
+.card img {
+    height: 300px;
 }
 
 .card {
