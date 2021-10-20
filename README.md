@@ -1,4 +1,4 @@
-Responsive
+Responsive Website
 
 This is a project consistiing of the languages HTML, CSS, JavaScript, and AdobeXD
 
